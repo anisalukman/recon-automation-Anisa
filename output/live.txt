@@ -20,3 +20,5 @@ https://live-data.america.fn.tesla.com
 https://live-data.prd.america.fn.tesla.com
 https://mail.yahoo.com
 https://maintainermonth.github.com
+https://media-server-qr-dev.eng.america.vn.cloud.tesla.com
+https://nz.finance.yahoo.com
