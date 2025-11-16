@@ -19,3 +19,4 @@ https://live-data.europe.fn.tesla.com
 https://live-data.america.fn.tesla.com
 https://live-data.prd.america.fn.tesla.com
 https://mail.yahoo.com
+https://maintainermonth.github.com
