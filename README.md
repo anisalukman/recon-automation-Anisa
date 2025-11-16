@@ -52,5 +52,7 @@ hackerone.com
 https://shop.tesla.com [200]
 https://github.com [200]
 ```
+## Screenshot terminal (eksekusi + hasil live.txt)
+<img width="1141" height="802" alt="image" src="https://github.com/user-attachments/assets/ad9841e0-a95f-407d-b336-d655b8982a2d" />
 
 
