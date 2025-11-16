@@ -1,6 +1,5 @@
 # recon-automation-Anisa
 
-# Recon Automation - [First Name]
 
 ## 📌 Deskripsi
 Project ini adalah automasi recon menggunakan `subfinder`, `anew`, dan `httpx`. Script menjalankan pipeline end-to-end untuk:
